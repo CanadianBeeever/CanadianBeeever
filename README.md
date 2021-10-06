@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CanadianBeeever
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
+- 💞️ I’m looking to collaborate with beeevers
 - 📫 How to reach me coding
 
 <!---
